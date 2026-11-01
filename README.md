@@ -1,4 +1,5 @@
 # Bangalore Home Price Prediction
+demo link: https://lnkd.in/p/gNr5nsec
 
 A machine learning web application for predicting home prices in Bangalore using Linear Regression with Flask backend and responsive dark-themed frontend. Features integrated DSA implementations for data analysis.
 
